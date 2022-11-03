@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/umaff/Documents/Vivado/k-and-s-project/ks_vivado/ks_vivado.sim/sim_1/behav/xsim/glbl.v,1667390232,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/ram_model.vhd,1667390227,vhdl,C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/tb_k_and_s.vhd,,,ram_model,,,,,,,,
+C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/tb_k_and_s.vhd,1667390227,vhdl,,,,tb_k_and_s,,,,,,,,
+C:/Users/umaff/Documents/Vivado/k-and-s-project/src/control_unit.sv,1667441907,systemVerilog,,C:/Users/umaff/Documents/Vivado/k-and-s-project/src/data_path.sv,,control_unit,,uvm,,,,,,
+C:/Users/umaff/Documents/Vivado/k-and-s-project/src/data_path.sv,1667442515,systemVerilog,,C:/Users/umaff/Documents/Vivado/k-and-s-project/src/k_and_s.sv,,data_path,,uvm,,,,,,
+C:/Users/umaff/Documents/Vivado/k-and-s-project/src/k_and_s.sv,1667390233,systemVerilog,C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/tb_k_and_s.vhd,,,k_and_s,,uvm,,,,,,
+C:/Users/umaff/Documents/Vivado/k-and-s-project/src/k_and_s_pkg.sv,1667390233,systemVerilog,C:/Users/umaff/Documents/Vivado/k-and-s-project/src/control_unit.sv;C:/Users/umaff/Documents/Vivado/k-and-s-project/src/data_path.sv;C:/Users/umaff/Documents/Vivado/k-and-s-project/src/k_and_s.sv,C:/Users/umaff/Documents/Vivado/k-and-s-project/src/control_unit.sv,,k_and_s_pkg,,uvm,,,,,,

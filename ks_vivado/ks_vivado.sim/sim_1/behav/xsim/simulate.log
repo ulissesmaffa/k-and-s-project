@@ -1,0 +1,44 @@
+Time resolution is 1 ps
+[[ RAM ]]Reading File : program.hex
+[[ RAM ]] ; start
+[[ RAM ]]  0 0000
+[[ TBT ]] Asking memory to load data
+[[ TBT ]] Waiting memory loading process
+[[ RAM ]]  1 0000
+[[ RAM ]]  2 810D
+[[ RAM ]]  3 812C
+[[ RAM ]]  4 A221
+[[ RAM ]]  5 0307
+[[ RAM ]]  6 FFFF
+[[ RAM ]]  7 A102
+[[ RAM ]]  8 020A
+[[ RAM ]]  9 FFFF
+[[ RAM ]] 10 8210
+[[ RAM ]] 11 FFFF
+[[ RAM ]] 12 000A
+[[ RAM ]] 13 0005
+[[ RAM ]] 14 0003
+[[ RAM ]] 15 0002
+[[ RAM ]] 16 0000
+[[ RAM ]] 17 0000
+[[ RAM ]] 18 0000
+[[ RAM ]] 19 0000
+[[ RAM ]] 20 0000
+[[ RAM ]] 21 0000
+[[ RAM ]] 22 0000
+[[ RAM ]] 23 0000
+[[ RAM ]] 24 0000
+[[ RAM ]] 25 0000
+[[ RAM ]] 26 0000
+[[ RAM ]] 27 0000
+[[ RAM ]] 28 0000
+[[ RAM ]] 29 0000
+[[ RAM ]] 30 0000
+[[ RAM ]] 31 0000
+[[ RAM ]]File Loaded - releasing memory
+[[ TBT ]] Memory load is finished, releasing Reset in next cycle
+[[ TBT ]] Reset is de-asserted. K and S processor must start now
+[[ TBT ]] Testbench is waiting HALT signal
+[[ TBT ]] K and S is HALTED!!!
+[[ TBT ]] Asking memory to dump data
+[[ TBT ]] Waiting memory dumping process

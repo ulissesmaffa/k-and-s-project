@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl work  \
+"../../../../../sim/ram_model.vhd" \
+"../../../../../sim/tb_k_and_s.vhd" \
+
+# Do not sort compile order
+nosort

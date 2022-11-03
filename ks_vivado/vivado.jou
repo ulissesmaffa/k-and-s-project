@@ -1,0 +1,253 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Wed Nov  2 09:04:02 2022
+# Process ID: 22500
+# Current directory: C:/Users/umaff/Documents/Vivado/k-and-s-project/ks_vivado
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent18868 C:\Users\umaff\Documents\Vivado\k-and-s-project\ks_vivado\ks_vivado.xpr
+# Log file: C:/Users/umaff/Documents/Vivado/k-and-s-project/ks_vivado/vivado.log
+# Journal file: C:/Users/umaff/Documents/Vivado/k-and-s-project/ks_vivado\vivado.jou
+# Running On: Ulisses, OS: Windows, CPU Frequency: 1992 MHz, CPU Physical cores: 4, Host memory: 8434 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/umaff/Documents/Vivado/k-and-s-project/ks_vivado/ks_vivado.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+restart
+run 10 us
+save_wave_config {C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg}
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+save_wave_config {C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg}
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+save_wave_config {C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg}
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+save_wave_config {C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg}
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+save_wave_config {C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg}
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+restart
+run 10 us
+save_wave_config {C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg}
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+save_wave_config {C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg}
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+save_wave_config {C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg}
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+save_wave_config {C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg}
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+restart
+run 100 us
+restart
+run 900 ns
+relaunch_sim
+run all
+restart
+run 20 us
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+add_bp {C:/Users/umaff/Documents/Vivado/k-and-s-project/src/control_unit.sv} 59
+remove_bps -file {C:/Users/umaff/Documents/Vivado/k-and-s-project/src/control_unit.sv} -line 59
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+restart
+run 20 us
+run 20 us
+save_wave_config {C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg}
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+restart
+run 30 us
+restart
+run 25 us
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+close_project
+open_project C:/Users/umaff/Documents/Vivado/k-and-s-project/ks_vivado/ks_vivado.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+restart
+run 30 us
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+run all
+restart
+run 500 ns
+run 500 ns
+restart
+run 1 s
+close_sim
+launch_simulation
+open_wave_config C:/Users/umaff/Documents/Vivado/k-and-s-project/sim/k_and_s_simulation.wcfg
+source tb_k_and_s.tcl
+restart

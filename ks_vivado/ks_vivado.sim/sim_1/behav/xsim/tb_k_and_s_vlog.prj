@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+sv work  \
+"../../../../../src/k_and_s_pkg.sv" \
+"../../../../../src/control_unit.sv" \
+"../../../../../src/data_path.sv" \
+"../../../../../src/k_and_s.sv" \
+
+# compile glbl module
+verilog work "glbl.v"
+
+# Do not sort compile order
+nosort

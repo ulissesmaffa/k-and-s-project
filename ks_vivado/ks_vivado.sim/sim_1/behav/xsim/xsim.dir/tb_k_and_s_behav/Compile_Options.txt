@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "work" -L "uvm" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "tb_k_and_s_behav" "work.tb_k_and_s" "work.glbl" -log "elaborate.log" 
